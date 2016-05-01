@@ -1,3 +1,9 @@
+antimicro (1:2.21+git+bsos-4) brewmaster; urgency=low
+
+  * Configure with SDL2 support
+
+ -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Sat, 30 Apr 2016 22:07:52 -0400
+
 antimicro (2.21+git+bsos3) brewmaster; urgency=low
 
   * Update release
