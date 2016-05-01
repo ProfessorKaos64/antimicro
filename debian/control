@@ -5,13 +5,15 @@ Maintainer: SteamOS-Tools Signing Key <mdeguzis@gmail.com>
 Build-Depends:	debhelper (>= 9),
  g++,
  cmake,
+ itstool,
+ gettext,
  qttools5-dev,
  qttools5-dev-tools,
  libsdl1.2-dev,
  libxi-dev,
- libxtst-dev,
  libsdl2-dev,
- libx11-dev
+ libx11-dev,
+ libxtst-dev
 Standards-Version: 3.9.5
 Homepage: https://github.com/Ryochan7/antimicro
 
